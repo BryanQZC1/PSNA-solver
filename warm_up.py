@@ -165,7 +165,7 @@ if __name__ == "__main__":
     )
     x_ = demo.run(
         x_init,
-        max_iter = 1000
+        max_iter = 10
     )
     #print(x_, rk_list_)
     print(x_)
