@@ -185,7 +185,7 @@ class two_stage_NVI:
 if __name__ == "__main__":
     n = 100
     m = 10
-    N = 100
+    N = 1000
 
     #A, B, T, M, q, q_, p = get_two_SLCP(N, n, m)
     A, B, p, q, Q, T, a, a_0, b, b_0 = get_demo1(N, n, m)
